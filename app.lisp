@@ -1,6 +1,3 @@
-(asdf:load-system 'data)
-(print hello)
-
 (setq locations (list
   'arad
   'bucharest
